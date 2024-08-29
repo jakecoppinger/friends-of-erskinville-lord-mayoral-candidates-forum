@@ -15,7 +15,9 @@ See `raw-transcription-output.txt` for the raw, unedited, machine generated tran
 
 ----
 
-# Yvonne Weldon comments on cycling
+Comments in order of speaker appearance at event.
+
+# Yvonne Weldon comments on cycling (Unite for Sydney / Independants)
 
 We need to protect and build upon our  
 [00:08:07.360 --> 00:08:12.640]   existing transport infrastructure. The opening of the new Metro is a milestone  
@@ -31,7 +33,7 @@ We need to protect and build upon our
 [00:09:00.720 --> 00:09:07.120]   disastrous. They were installed overnight with no consultation, poorly constructed,  
 [00:09:07.120 --> 00:09:13.000]   unsafe and underutilised.
 
-# Lyndon Gannon comments on cycling
+# Lyndon Gannon comments on cycling (Liberal Party)
 In terms of transport, pretty clear we have a current  
 [00:14:37.720 --> 00:14:44.800]   administration that seems to squarely focus cyclists. Now I'm all for cycling  
 [00:14:44.800 --> 00:14:48.920]   infrastructure. I cycle daily and I ride a motorcycle but the interests of  
@@ -44,7 +46,7 @@ In terms of transport, pretty clear we have a current
 [00:15:16.880 --> 00:15:20.680]   Wales to make sure that these pieces of infrastructure work for all of those who  
 [00:15:20.680 --> 00:15:26.320]   use our streets, not just cyclists.
 
-# Clover Moore comments on cycling
+# Clover Moore comments on cycling (Clover Moore Independent Team)
 
 You've identified three important issues and I'll start  
 [00:17:03.200 --> 00:17:07.600]   with transport, finding a balance. I want to start by saying that action on  
@@ -82,7 +84,7 @@ You've identified three important issues and I'll start
 [00:19:36.160 --> 00:19:38.720]   call on the government to build the active transport bridge between North  
 [00:19:38.720 --> 00:19:45.120]   and South Everleigh which is long overdue.
 
-# Sue Ritchie comments on cycling
+# Sue Ritchie comments on cycling (Sue Ritchie Independent)
 
 Look on the issue of  
 [00:31:49.800 --> 00:31:58.800]   transport here, finding a balance, look we are saying that after all this time  
@@ -96,7 +98,7 @@ Look on the issue of
 [00:32:38.080 --> 00:32:47.200]   lanes but certainly we need a review and a balance between the bike lanes,  
 [00:32:47.200 --> 00:32:59.400]   pedestrians and vehicles.
 
-# Sam Danieli comments on cycling
+# Sam Danieli comments on cycling (We Love Sydney / Independant)
 Look on the issue of  
 [00:31:49.800 --> 00:31:58.800]   transport here, finding a balance, look we are saying that after all this time  
 [00:31:58.800 --> 00:32:05.040]   after 20 years with bike paths, cycle ways there needs to be a review and an  
@@ -109,17 +111,17 @@ Look on the issue of
 [00:32:38.080 --> 00:32:47.200]   lanes but certainly we need a review and a balance between the bike lanes,  
 [00:32:47.200 --> 00:32:59.400]   pedestrians and vehicles.
 
-# Zann Maxwell
+# Zann Maxwell (Labor)
 
 (no mention supporting or rejecting cycleways)
 
-# Sylvie Ellsmore
+# Sylvie Ellsmore (Greens)
 Finally just briefly on transport which is the last one the  
 [00:50:28.040 --> 00:50:31.880]   Greens are very proud of very proud champions of active transport. Lower  
 [00:50:31.880 --> 00:50:36.080]   speed limits on our streets, wider footpaths, dramatically reducing  
 [00:50:36.080 --> 00:50:41.120]   dependence on cars.
 
-# Rachel Evans
+# Rachel Evans (Socialist Alliance)
 
 So public  
 [00:53:20.720 --> 00:53:26.160]   transport. Sydney could be a green transport city. Instead we are surrounded  
@@ -147,7 +149,7 @@ So public
 [00:55:18.360 --> 00:55:23.640]   growing chorus demanding Council end outsourcing and bring services back in  
 [00:55:23.640 --> 00:55:28.480]   house. Garbage collection, bike path building, light bulb changing for example. 
 
-# Sean Masters
+# Sean Masters (Libertarian Party)
 The first one being  
 [00:59:30.120 --> 00:59:37.200]   transport. Now obviously state government and local government need to work hand  
 [00:59:37.200 --> 00:59:44.920]   in hand when it comes to suitable and appropriate public transport for  

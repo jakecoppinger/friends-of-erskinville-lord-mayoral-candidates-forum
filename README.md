@@ -23,6 +23,8 @@ newlines, capitalisation, paragraph separation).
 All modifications are visible by viewing the Git history of this file:
 https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-forum/commits/main/README.md
 
+Wikipedia page of the candidates is at https://en.wikipedia.org/wiki/2024_Sydney_City_Council_election
+
 ----
 
 [00:00:00.000 --> 00:00:04.800]   action group and I will be comparing tonight's forum with Deborah Giblett 
@@ -72,7 +74,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:03:25.880 --> 00:03:30.280]   Council and as a board member of Domestic Violence New South Wales. Please  
 [00:03:30.280 --> 00:03:41.160]   join me in welcoming Yvonne.  
   
-# Yvonne Weldon speech
+# Yvonne Weldon speech (Unite for Sydney / Independants)
   
 [00:03:41.160 --> 00:03:53.080]   Slightly shorter. Good evening everyone. As I said my name is Yvonne Weldon. I am a  
 [00:03:53.080 --> 00:03:57.720]   Wiradjuri woman from Cowra here in New South Wales. I need and appropriately  
@@ -159,7 +161,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:10:59.760 --> 00:11:02.320]   also like to acknowledge the other candidates here tonight and my  
 [00:11:02.320 --> 00:11:05.460]   councillor counterparts and the Lord Mayor of course for coming tonight too.  
   
-# Lyndon Gannon speech  
+# Lyndon Gannon speech (Liberal Party)
 [00:11:05.460 --> 00:11:09.840]   I'm of course Lyndon Gannon your Liberal Councillor on the City of Sydney and I'm  
 [00:11:09.840 --> 00:11:15.320]   the youngest Councillor on Council in the youngest electorate in the state.  
 [00:11:15.320 --> 00:11:19.520]   It's the end of my first term which has been an absolute privilege and honour to  
@@ -221,6 +223,8 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:15:26.320 --> 00:15:30.880]   serve you for the last two years, sorry not four years, as your as your Lord Mayor  
 [00:15:30.880 --> 00:15:35.440]   I will champion you and your voice with the energy and vision the city needs.  
 [00:15:35.440 --> 00:15:48.640]   After 20 years it's clear the city needs new leadership. Thank you.  
+
+# Clover Moore introduction
 [00:15:48.640 --> 00:15:54.000]   Our next speaker is Clover Moore. Clover is the first woman popularly elected as Lord  
 [00:15:54.000 --> 00:15:58.280]   Mayor of Sydney. During her five terms as Lord Mayor the City of Sydney has  
 [00:15:58.280 --> 00:16:04.040]   developed a long-term strategic plan, Sustainable Sydney 2030 to 2050, which  
@@ -230,7 +234,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:16:16.640 --> 00:16:20.360]   options and championing the needs of diverse and vulnerable communities.  
 [00:16:20.360 --> 00:16:38.480]   Clover is committed to a vital and welcoming city for all. Please welcome Clover Moore.  
   
-# Clover Moore speech  
+# Clover Moore speech (Clover Moore Independent Team)
 [00:16:38.480 --> 00:16:43.920]   Hello everyone, it's good to see you all here. It's nearly as popular as those  
 [00:16:43.920 --> 00:16:48.440]   traffic meetings that we've all been to. I want to acknowledge the Gadigal and the  
 [00:16:48.440 --> 00:16:52.340]   Eora Nation, the traditional custodians of our land and pay my respects to the  
@@ -325,7 +329,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:23:34.240 --> 00:23:38.600]   Street, between two of the best art schools in the country. Please welcome  
 [00:23:38.600 --> 00:23:41.200]   Sue Ritchie.  
   
-# Sue Ritchie speech  
+# Sue Ritchie speech (Sue Ritchie Independent)
 [00:23:41.200 --> 00:23:48.920]   Hello everybody. I'd like to show my respect to the traditional owners, the  
 [00:23:48.920 --> 00:23:53.440]   Gadigal people of the Ekeanoran Nation and also my respect to the other  
 [00:23:53.440 --> 00:23:59.000]   candidates. To answer the three questions, firstly in regards to transport and the  
@@ -397,6 +401,8 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:30:06.000 --> 00:30:10.560]   business and eight years in one of the largest councils in New South Wales Sam  
 [00:30:10.560 --> 00:30:14.560]   is ready to hit the ground running and make Sydney a city that is safe, clean  
 [00:30:14.560 --> 00:30:21.000]   and very welcoming to come to work, live and play. Please welcome Sam.  
+
+# Sam Danieli speech (We Love Sydney / Independant)
 [00:30:21.000 --> 00:30:30.720]   Good evening everyone. I too would like to acknowledge the Garigal people,  
 [00:30:30.720 --> 00:30:37.880]   Elders past and present, of course the other candidates. As I look around the  
 [00:30:37.880 --> 00:30:44.160]   room here tonight I see ratepayers that have paid hard-earned monies to council  
@@ -469,7 +475,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:37:11.520 --> 00:37:16.720]   Anthony Albanese and now seeks to bring his commitment to social and economic  
 [00:37:16.720 --> 00:37:23.040]   fairness to public life as a Labor representative. Please welcome Zann.  
   
-# Zann Maxwell speech  
+# Zann Maxwell speech (Labor)
 [00:37:23.040 --> 00:37:39.880]   Thank you so much. Hello everyone I'm Zann Maxwell. I want to start by  
 [00:37:39.880 --> 00:37:47.160]   acknowledging the Gadigal as well and any elders that with us tonight. Their  
 [00:37:47.160 --> 00:37:53.760]   land was taken without consultation or compensation and the effects of that  
@@ -542,7 +548,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:44:08.440 --> 00:44:15.800]   karate teacher and the founding member of Red Watch and lives in Darlington with  
 [00:44:15.800 --> 00:44:21.240]   her partner Ben and dogs Ziggy and Nugget. Welcome Sylvia.  
   
-# Sylvie Ellsmore speech  
+# Sylvie Ellsmore speech (Greens)
 [00:44:21.240 --> 00:44:29.200]   I never know what kind of bio to provide when you get asked for these things. Good evening everyone, thank you  
 [00:44:29.200 --> 00:44:33.680]   for your patience. I would also like to start by acknowledging that we, as the  
 [00:44:33.680 --> 00:44:37.400]   others have, that we are meeting on Gadigal land. This always was and  
@@ -637,7 +643,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:51:12.720 --> 00:51:18.240]   and disclosed to divest, boycott and sanction Israel. Motions through the City  
 [00:51:18.240 --> 00:51:22.280]   of Sydney Council. Welcome Rachel.  
   
-# Rachel Evans speech  
+# Rachel Evans speech (Socialist Alliance)
 [00:51:22.280 --> 00:51:28.600]   Well hi everyone. Thank you to the residents, groups and volunteers who have  
 [00:51:28.600 --> 00:51:32.880]   organised this forum. I'm recognising we're on the land of the Gadigal people  
 [00:51:32.880 --> 00:51:38.400]   of the Eora Nation, always was, always will be Aboriginal land and I pay  
@@ -719,7 +725,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:58:10.240 --> 00:58:14.240]   wants the best possible future for his young family and for the people of  
 [00:58:14.240 --> 00:58:27.680]   Sydney. Please welcome Sean. Well you can all hear me doesn't Mike doesn't  
 
-# Sean Masters speech  
+# Sean Masters speech (Libertarian Party)
 [00:58:27.680 --> 00:58:41.880]   need to go up I'll be I'll be quick as I can. Yeah look I am running for council  
 [00:58:41.880 --> 00:58:49.600]   because I feel that ideology has infested this council and I feel that  
 [00:58:49.600 --> 00:58:57.240]   ideology has no place in local council. I feel that council should be all about  
