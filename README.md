@@ -7,6 +7,14 @@ https://arag.org.au/2024/08/15/city-of-sydney-lord-mayoral-candidates-forum-21-a
 This transcription is machine generated and not guaranteed to be correct. Do not quote
 without also checking the original video using the provided timestamps.
 
+See `raw-transcription-output.txt` for the raw, unedited, machine generated transcript.
+
+Below is a slightly formatted modification. Only formatting or spelling changes have been made (eg.
+newlines, capitalisation, paragraph separation).
+
+All modifications are visible by viewing the Git history of this file:
+https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-forum/commits/main/README.md
+
 ----
 
 [00:00:00.000 --> 00:00:04.800]   action group and I will be comparing tonight's forum with Deborah Giblett
@@ -51,6 +59,9 @@ without also checking the original video using the provided timestamps.
 [00:03:20.800 --> 00:03:25.880]   Local Aboriginal Council, deputy chair of the New South Wales Australia Day
 [00:03:25.880 --> 00:03:30.280]   Council and as a board member of Domestic Violence New South Wales. Please
 [00:03:30.280 --> 00:03:41.160]   join me in welcoming Yvonne.
+
+# Yvonne Weldon speech
+
 [00:03:41.160 --> 00:03:53.080]   Slightly shorter. Good evening everyone. As I said my name is Yvonne Weldon. I am a
 [00:03:53.080 --> 00:03:57.720]   Wiradjuri woman from Cowra here in New South Wales. I need and appropriately
 [00:03:57.720 --> 00:04:02.160]   acknowledge that we are on Gadigal land and it's an important part of
@@ -135,6 +146,8 @@ without also checking the original video using the provided timestamps.
 [00:10:54.880 --> 00:10:59.760]   Gadigal of the Eora Nation and pay respects to elders past and present. I'd
 [00:10:59.760 --> 00:11:02.320]   also like to acknowledge the other candidates here tonight and my
 [00:11:02.320 --> 00:11:05.460]   councillor counterparts and the Lord Mayor of course for coming tonight too.
+
+# Lyndon Gannon speech
 [00:11:05.460 --> 00:11:09.840]   I'm of course Lyndon Gannon your Liberal Councillor on the City of Sydney and I'm
 [00:11:09.840 --> 00:11:15.320]   the youngest Councillor on Council in the youngest electorate in the state.
 [00:11:15.320 --> 00:11:19.520]   It's the end of my first term which has been an absolute privilege and honour to
@@ -204,6 +217,8 @@ without also checking the original video using the provided timestamps.
 [00:16:11.740 --> 00:16:16.640]   promoting the cultural and creative life of the city, delivering transport
 [00:16:16.640 --> 00:16:20.360]   options and championing the needs of diverse and vulnerable communities.
 [00:16:20.360 --> 00:16:38.480]   Clover is committed to a vital and welcoming city for all. Please welcome Clover Moore.
+
+# Clover Moore speech
 [00:16:38.480 --> 00:16:43.920]   Hello everyone, it's good to see you all here. It's nearly as popular as those
 [00:16:43.920 --> 00:16:48.440]   traffic meetings that we've all been to. I want to acknowledge the Gadigal and the
 [00:16:48.440 --> 00:16:52.340]   Eora Nation, the traditional custodians of our land and pay my respects to the
@@ -295,6 +310,8 @@ without also checking the original video using the provided timestamps.
 [00:23:30.180 --> 00:23:34.240]   Three Saints Square project, which focuses on the central part of Oxford
 [00:23:34.240 --> 00:23:38.600]   Street, between two of the best art schools in the country. Please welcome
 [00:23:38.600 --> 00:23:41.200]   Sue Ritchie.
+
+# Sue Ritchie speech
 [00:23:41.200 --> 00:23:48.920]   Hello everybody. I'd like to show my respect to the traditional owners, the
 [00:23:48.920 --> 00:23:53.440]   Gadigal people of the Ekeanoran Nation and also my respect to the other
 [00:23:53.440 --> 00:23:59.000]   candidates. To answer the three questions, firstly in regards to transport and the
@@ -435,6 +452,8 @@ without also checking the original video using the provided timestamps.
 [00:37:06.960 --> 00:37:11.520]   support through tech platforms. He has been an advisor to the Prime Minister
 [00:37:11.520 --> 00:37:16.720]   Anthony Albanese and now seeks to bring his commitment to social and economic
 [00:37:16.720 --> 00:37:23.040]   fairness to public life as a Labor representative. Please welcome Zan.
+
+# Zan Maxwell speech
 [00:37:23.040 --> 00:37:39.880]   Thank you so much. Hello everyone I'm Zan Maxwell. I want to start by
 [00:37:39.880 --> 00:37:47.160]   acknowledging the Gadigal as well and any elders that with us tonight. Their
 [00:37:47.160 --> 00:37:53.760]   land was taken without consultation or compensation and the effects of that
@@ -504,6 +523,8 @@ without also checking the original video using the provided timestamps.
 [00:44:03.320 --> 00:44:08.440]   and researcher for the Environmental Defenders Office. She is a volunteer
 [00:44:08.440 --> 00:44:15.800]   karate teacher and the founding member of Red Watch and lives in Darlington with
 [00:44:15.800 --> 00:44:21.240]   her partner Ben and dogs Ziggy and Nugget. Welcome Sylvia.
+
+# Sylvie Ellsmore speech
 [00:44:21.240 --> 00:44:29.200]   I never know what kind of bio to provide when you get asked for these things. Good evening everyone, thank you
 [00:44:29.200 --> 00:44:33.680]   for your patience. I would also like to start by acknowledging that we, as the
 [00:44:33.680 --> 00:44:37.400]   others have, that we are meeting on Gadigal land. This always was and
@@ -597,6 +618,8 @@ without also checking the original video using the provided timestamps.
 [00:51:08.120 --> 00:51:12.720]   City of Sydney for Palestine. The group that led the successful ceasefire now
 [00:51:12.720 --> 00:51:18.240]   and disclosed to divest, boycott and sanction Israel. Motions through the City
 [00:51:18.240 --> 00:51:22.280]   of Sydney Council. Welcome Rachel.
+
+# Rachel Evans speech
 [00:51:22.280 --> 00:51:28.600]   Well hi everyone. Thank you to the residents, groups and volunteers who have
 [00:51:28.600 --> 00:51:32.880]   organised this forum. I'm recognising we're on the land of the Gadigal people
 [00:51:32.880 --> 00:51:38.400]   of the Eora Nation, always was, always will be Aboriginal land and I pay
@@ -677,6 +700,7 @@ without also checking the original video using the provided timestamps.
 [00:58:04.440 --> 00:58:10.240]   ideology and towards more practical politics that actually helps people. He
 [00:58:10.240 --> 00:58:14.240]   wants the best possible future for his young family and for the people of
 [00:58:14.240 --> 00:58:27.680]   Sydney. Please welcome Sean. Well you can all hear me doesn't Mike doesn't
+# Sean Masters speech
 [00:58:27.680 --> 00:58:41.880]   need to go up I'll be I'll be quick as I can. Yeah look I am running for council
 [00:58:41.880 --> 00:58:49.600]   because I feel that ideology has infested this council and I feel that
 [00:58:49.600 --> 00:58:57.240]   ideology has no place in local council. I feel that council should be all about
@@ -736,6 +760,8 @@ without also checking the original video using the provided timestamps.
 [01:04:22.280 --> 01:04:27.680]   Aboriginal people surely a part of their soul gets torn out surely a part of their
 [01:04:27.680 --> 01:04:35.360]   dignity gets torn out. No no no no I I do not I do not feel that way I do not
 [01:04:35.360 --> 01:04:39.560]   feel that way and we can talk about that.
+
+# Open Mic Q&A
 [01:04:39.560 --> 01:04:54.280]   Okay so we're now going to have the open mic Q&A session. I'd ask that if people
 [01:04:54.280 --> 01:04:59.280]   have questions could they please line up over here. I will tell you that we will
 [01:04:59.280 --> 01:05:04.200]   only allow half an hour for this and so there are a couple of things that I want
@@ -960,6 +986,8 @@ without also checking the original video using the provided timestamps.
 [01:29:39.740 --> 01:29:40.740]   Okay. I think we're fine.
 [01:29:40.740 --> 01:29:42.740]   And the heritage preservation--
 [01:29:42.740 --> 01:29:46.740]   Oh, and the heritage preservation. I beg your pardon. Thank you.
+
+# Concluding remarks
 [01:29:46.740 --> 01:29:55.740]   Look, it's 8.30. I want to thank everyone that's here, the candidates, the other members of council,
 [01:29:55.740 --> 01:30:01.740]   for being patient about tonight and being respectful.
 [01:30:01.740 --> 01:30:06.740]   I love this country and I love this city, and I think we have seen democracy in action.
