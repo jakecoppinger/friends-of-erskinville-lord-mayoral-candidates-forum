@@ -1,6 +1,6 @@
 # Comments on cycling & streets by Lord Moyoral Candidates, 21 August 2024
 
-See also the notes at [[README.md]]
+See full speech transcripts at https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-forum/
 
 These are manual extracts of cycling / streets related comments in the the machine generated
 transcript of the Lord Mayoral Candidates Forum (21 August 2024), generated from the original
