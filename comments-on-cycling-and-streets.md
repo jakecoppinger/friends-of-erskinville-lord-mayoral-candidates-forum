@@ -38,7 +38,7 @@ In terms of transport, pretty clear we have a current
 [00:14:37.720 --> 00:14:44.800]   administration that seems to squarely focus cyclists. Now I'm all for cycling  
 [00:14:44.800 --> 00:14:48.920]   infrastructure. I cycle daily and I ride a motorcycle but the interests of  
 [00:14:48.920 --> 00:14:52.720]   all road users and users of our public spaces need to be taken into  
-[00:14:52.720 --> 00:14:57.800]   consideration. We only have to look at the Zalaska of the COVID era pop-up  
+[00:14:52.720 --> 00:14:57.800]   consideration. We only have to look at the disaster of the COVID era pop-up  
 [00:14:57.800 --> 00:15:03.200]   cycleways. They're not fit for purpose and they need a lot of work to make them  
 [00:15:03.200 --> 00:15:07.680]   right which I'm committed to doing. The Oxford Street cycleway is another big  
 [00:15:07.680 --> 00:15:13.000]   issue. The current designs just aren't right. Locals have major concerns with  
