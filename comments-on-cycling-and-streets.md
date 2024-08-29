@@ -18,168 +18,45 @@ See `raw-transcription-output.txt` for the raw, unedited, machine generated tran
 Comments in order of speaker appearance at event.
 
 # Yvonne Weldon comments on cycling (Unite for Sydney / Independants)
+00:08:07.360
 
-We need to protect and build upon our  
-[00:08:07.360 --> 00:08:12.640]   existing transport infrastructure. The opening of the new Metro is a milestone  
-[00:08:12.640 --> 00:08:18.240]   and it will be great for our city in this area but more for a better active  
-[00:08:18.240 --> 00:08:23.600]   transport infrastructure too. We need to continue to improve the walkability and  
-[00:08:23.600 --> 00:08:29.960]   accessibility for our streets for all. I've joined the chorus of voices pushing  
-[00:08:29.960 --> 00:08:33.960]   for a footbridge connecting North and South Everleigh. The state government  
-[00:08:33.960 --> 00:08:38.880]   needs to make this happen and if they won't council might need to bite the  
-[00:08:38.880 --> 00:08:44.360]   bullet and chip in some funds to bring them to the table and to see this happen.  
-[00:08:44.360 --> 00:08:50.640]   Bad cycleway policy is driving Sydney. When done right like on Bourke Street in  
-[00:08:50.640 --> 00:08:56.120]   Redfern and Wilson Street in Darlington it's great but the pop-up cycleways on  
-[00:08:56.120 --> 00:09:00.720]   Henderson Street in Erskineville, Ridge Road in Glebe and Moor Park Road are  
-[00:09:00.720 --> 00:09:07.120]   disastrous. They were installed overnight with no consultation, poorly constructed,  
-[00:09:07.120 --> 00:09:13.000]   unsafe and underutilised.
+We need to protect and build upon our existing transport infrastructure. The opening of the new Metro is a milestone and it will be great for our city in this area but more for a better active transport infrastructure too. We need to continue to improve the walkability and accessibility for our streets for all. I've joined the chorus of voices pushing for a footbridge connecting North and South Everleigh. The state government needs to make this happen and if they won't council might need to bite the bullet and chip in some funds to bring them to the table and to see this happen.  Bad cycleway policy is driving Sydney. When done right like on Bourke Street in Redfern and Wilson Street in Darlington it's great but the pop-up cycleways on Henderson Street in Erskineville, Ridge Road in Glebe and Moor Park Road are disastrous. They were installed overnight with no consultation, poorly constructed, unsafe and underutilised.
 
 # Lyndon Gannon comments on cycling (Liberal Party)
-In terms of transport, pretty clear we have a current  
-[00:14:37.720 --> 00:14:44.800]   administration that seems to squarely focus cyclists. Now I'm all for cycling  
-[00:14:44.800 --> 00:14:48.920]   infrastructure. I cycle daily and I ride a motorcycle but the interests of  
-[00:14:48.920 --> 00:14:52.720]   all road users and users of our public spaces need to be taken into  
-[00:14:52.720 --> 00:14:57.800]   consideration. We only have to look at the disaster of the COVID era pop-up  
-[00:14:57.800 --> 00:15:03.200]   cycleways. They're not fit for purpose and they need a lot of work to make them  
-[00:15:03.200 --> 00:15:07.680]   right which I'm committed to doing. The Oxford Street cycleway is another big  
-[00:15:07.680 --> 00:15:13.000]   issue. The current designs just aren't right. Locals have major concerns with  
-[00:15:13.000 --> 00:15:16.880]   them which I share. If elected I'll work closely with Transport for New South  
-[00:15:16.880 --> 00:15:20.680]   Wales to make sure that these pieces of infrastructure work for all of those who  
-[00:15:20.680 --> 00:15:26.320]   use our streets, not just cyclists.
+00:14:37.720
+
+In terms of transport, pretty clear we have a current administration that seems to squarely focus cyclists. Now I'm all for cycling infrastructure. I cycle daily and I ride a motorcycle but the interests of all road users and users of our public spaces need to be taken into consideration. We only have to look at the disaster of the COVID era pop-up cycleways. They're not fit for purpose and they need a lot of work to make them right which I'm committed to doing. The Oxford Street cycleway is another big issue. The current designs just aren't right. Locals have major concerns with them which I share. If elected I'll work closely with Transport for New South Wales to make sure that these pieces of infrastructure work for all of those who use our streets, not just cyclists.
 
 # Clover Moore comments on cycling (Clover Moore Independent Team)
+00:17:03.200
 
-You've identified three important issues and I'll start  
-[00:17:03.200 --> 00:17:07.600]   with transport, finding a balance. I want to start by saying that action on  
-[00:17:07.600 --> 00:17:12.200]   climate change is a top priority for the city and transport is the second  
-[00:17:12.200 --> 00:17:17.240]   highest and fastest growing source of CO2, which pre-COVID generated 20% of  
-[00:17:17.240 --> 00:17:21.840]   emissions. Our commitment to light rail, to cycle ways and creating a city for  
-[00:17:21.840 --> 00:17:26.520]   walking reduces emissions, provides clean and efficient alternatives to driving  
-[00:17:26.520 --> 00:17:33.920]   and improves productivity and people's health. And communities have told us that  
-[00:17:33.920 --> 00:17:37.520]   they want a city that is safe for walking and cycling, with better public  
-[00:17:37.520 --> 00:17:42.920]   transport. A city for people rather than cars. We are spending 28 million dollars  
-[00:17:42.920 --> 00:17:48.000]   a year on walking related improvements, especially as 93% of all trips involve  
-[00:17:48.000 --> 00:17:53.080]   walking. If a car hits a pedestrian at 50 kilometres an hour there is just a 10%  
-[00:17:53.080 --> 00:17:58.000]   chance of survival. That chance goes up to 60% of the cars travelling at 40  
-[00:17:58.000 --> 00:18:01.960]   kilometres an hour and goes up to 90% if the car is travelling at 30  
-[00:18:01.960 --> 00:18:07.720]   kilometres an hour. And the good news is that 75% of city controlled streets now  
-[00:18:07.720 --> 00:18:11.840]   have speed limits of 40 kilometres and soon they will include all city  
-[00:18:11.840 --> 00:18:17.200]   controlled streets. We're also advocating to government for 30 kilometre an hour  
-[00:18:17.200 --> 00:18:23.200]   in our village centres and in the CBD. When I became Lord Mayor the city had no  
-[00:18:23.200 --> 00:18:27.840]   separated cycleways. Now we have 25 kilometres of safe separated cycleways  
-[00:18:27.840 --> 00:18:32.960]   and more than 10,000 people safely ride to work in the city centre each day, the  
-[00:18:32.960 --> 00:18:39.680]   equivalent of 10 full trains and 166 full buses. 70% of Sydney-siders  
-[00:18:39.680 --> 00:18:42.860]   told us that they would feel safer riding if there were more separated  
-[00:18:42.860 --> 00:18:48.360]   cycleways. But not everyone can ride or walk so enabling people to ride and walk  
-[00:18:48.360 --> 00:18:52.340]   and use public transport frees up congested roads for people who need to  
-[00:18:52.340 --> 00:18:57.040]   drive, that is our trades people and people with a disability. And cost of  
-[00:18:57.040 --> 00:19:00.740]   living is a great challenge and cycling isn't affordable for those that can  
-[00:19:00.740 --> 00:19:05.320]   cycle. And to mitigate the impacts from WestConnex in Alexandria and Erskineville  
-[00:19:05.320 --> 00:19:09.440]   the city has committed to 6.5 million dollars for 17 traffic management  
-[00:19:09.440 --> 00:19:14.740]   treatments over the next term following our consultations with you. And recently  
-[00:19:14.740 --> 00:19:18.760]   we opened stage one of the Green Square to Ashmore connector. I'm very excited  
-[00:19:18.760 --> 00:19:22.680]   about this, it's a cycling, walking and public transport street that will enable  
-[00:19:22.680 --> 00:19:26.880]   the people from Ashmore and Erskineville to easily get to community facilities in  
-[00:19:26.880 --> 00:19:30.880]   Green Square and Green Square residents to easily get to beautiful Sydney Park.  
-[00:19:30.880 --> 00:19:36.160]   We'll be doing in stage two at the beginning of next year. I'll continue to  
-[00:19:36.160 --> 00:19:38.720]   call on the government to build the active transport bridge between North  
-[00:19:38.720 --> 00:19:45.120]   and South Everleigh which is long overdue.
+You've identified three important issues and I'll start with transport, finding a balance. I want to start by saying that action on climate change is a top priority for the city and transport is the second highest and fastest growing source of CO2, which pre-COVID generated 20% of emissions. Our commitment to light rail, to cycle ways and creating a city for walking reduces emissions, provides clean and efficient alternatives to driving and improves productivity and people's health. And communities have told us that they want a city that is safe for walking and cycling, with better public transport. A city for people rather than cars. We are spending 28 million dollars a year on walking related improvements, especially as 93% of all trips involve walking. If a car hits a pedestrian at 50 kilometres an hour there is just a 10% chance of survival. That chance goes up to 60% of the cars travelling at 40 kilometres an hour and goes up to 90% if the car is travelling at 30 kilometres an hour. And the good news is that 75% of city controlled streets now have speed limits of 40 kilometres and soon they will include all city controlled streets. We're also advocating to government for 30 kilometre an hour in our village centres and in the CBD. When I became Lord Mayor the city had no separated cycleways. Now we have 25 kilometres of safe separated cycleways and more than 10,000 people safely ride to work in the city centre each day, the equivalent of 10 full trains and 166 full buses. 70% of Sydney-siders told us that they would feel safer riding if there were more separated cycleways. But not everyone can ride or walk so enabling people to ride and walk and use public transport frees up congested roads for people who need to drive, that is our trades people and people with a disability. And cost of living is a great challenge and cycling isn't affordable for those that can cycle. And to mitigate the impacts from WestConnex in Alexandria and Erskineville the city has committed to 6.5 million dollars for 17 traffic management treatments over the next term following our consultations with you. And recently we opened stage one of the Green Square to Ashmore connector. I'm very excited about this, it's a cycling, walking and public transport street that will enable the people from Ashmore and Erskineville to easily get to community facilities in Green Square and Green Square residents to easily get to beautiful Sydney Park.  We'll be doing in stage two at the beginning of next year. I'll continue to call on the government to build the active transport bridge between North and South Everleigh which is long overdue.
 
 # Sue Ritchie comments on cycling (Sue Ritchie Independent)
+00:23:59.000
 
-To answer the three questions, firstly in regards to transport and the  
-[00:23:59.000 --> 00:24:04.440]   balance between pedestrians, cyclists, cars etc, my core message is the  
-[00:24:04.440 --> 00:24:09.200]   Council's currently not getting that balance right. If it was getting it right  
-[00:24:09.200 --> 00:24:13.760]   and if it was listening to the constituents, I wouldn't be here because  
-[00:24:13.760 --> 00:24:20.120]   my community is challenged with the Oxford Street East cycleway and I  
-[00:24:20.120 --> 00:24:25.680]   want to point out that the community supports increasing cyclist safety and  
-[00:24:25.680 --> 00:24:32.360]   supports providing the missing link, so to speak, in the cycleway network between  
-[00:24:32.360 --> 00:24:38.700]   Bondo Junction and the city. So that's not the issue. A separated cycleway is  
-[00:24:38.700 --> 00:24:47.760]   required. The issue is whether that cycleway should be on the existing site  
-[00:24:47.760 --> 00:24:53.720]   of the temporary cycleway on Moor Park Road or whether it should be ripped up  
-[00:24:53.720 --> 00:24:59.800]   and moved on to Oxford Street where it's going to have catastrophic effects for  
-[00:24:59.800 --> 00:25:05.800]   businesses and residents and there hasn't been any consultation on this  
-[00:25:05.800 --> 00:25:12.840]   question. It's an ill-conceived concept to force it on to Oxford Street. The  
-[00:25:12.840 --> 00:25:18.840]   implications alone of closing five right-hand turns is significant and the  
-[00:25:18.840 --> 00:25:25.560]   majority of the constituents on Oxford Street and in the surrounding areas are  
-[00:25:25.560 --> 00:25:30.600]   not being listened to. The Council's been listening to residents on Moor Park  
-[00:25:30.600 --> 00:25:34.520]   Road which is fair enough because they've had that temporary cycleway  
-[00:25:34.520 --> 00:25:40.280]   inflicted on them and the Council's been listening to the state government and  
-[00:25:40.280 --> 00:25:45.760]   interest, you know, the cyclist interest groups but the point is the  
-[00:25:45.760 --> 00:25:50.160]   balance isn't right and if the balance was right I wouldn't be up here  
-[00:25:50.160 --> 00:25:56.360]   representing my community. So the Council needs to listen to the constituents and  
-[00:25:56.360 --> 00:26:02.760]   we need to get the balance right and, you know, while this is an Oxford  
-[00:26:02.760 --> 00:26:07.640]   Street issue, if it can happen on Oxford Street it can happen in your area too.  
+To answer the three questions, firstly in regards to transport and the balance between pedestrians, cyclists, cars etc, my core message is the Council's currently not getting that balance right. If it was getting it right and if it was listening to the constituents, I wouldn't be here because my community is challenged with the Oxford Street East cycleway and I want to point out that the community supports increasing cyclist safety and supports providing the missing link, so to speak, in the cycleway network between Bondo Junction and the city. So that's not the issue. A separated cycleway is required. The issue is whether that cycleway should be on the existing site of the temporary cycleway on Moor Park Road or whether it should be ripped up and moved on to Oxford Street where it's going to have catastrophic effects for businesses and residents and there hasn't been any consultation on this question. It's an ill-conceived concept to force it on to Oxford Street. The implications alone of closing five right-hand turns is significant and the majority of the constituents on Oxford Street and in the surrounding areas are not being listened to. The Council's been listening to residents on Moor Park Road which is fair enough because they've had that temporary cycleway inflicted on them and the Council's been listening to the state government and interest, you know, the cyclist interest groups but the point is the balance isn't right and if the balance was right I wouldn't be up here representing my community. So the Council needs to listen to the constituents and we need to get the balance right and, you know, while this is an Oxford Street issue, if it can happen on Oxford Street it can happen in your area too.
 
 # Sam Danieli comments on cycling (We Love Sydney / Independant)
-Look on the issue of  
-[00:31:49.800 --> 00:31:58.800]   transport here, finding a balance, look we are saying that after all this time  
-[00:31:58.800 --> 00:32:05.040]   after 20 years with bike paths, cycle ways there needs to be a review and an  
-[00:32:05.040 --> 00:32:10.520]   audit and again if we don't have change at the top that is not going to happen.  
-[00:32:10.520 --> 00:32:14.760]   We'll just continue with what's been happening whereas the change will ensure  
-[00:32:14.760 --> 00:32:19.400]   that there's a review, there's an audit. Certainly if I become mayor some of these  
-[00:32:19.400 --> 00:32:26.000]   bike lanes, some of them will have to go. For example in the city of  
-[00:32:26.000 --> 00:32:31.920]   Sydney, I mean Pitt Street now has become a parking lot really and so that's  
-[00:32:31.920 --> 00:32:38.080]   probably one of the first ones to go. However look we're not saying no bike  
-[00:32:38.080 --> 00:32:47.200]   lanes but certainly we need a review and a balance between the bike lanes,  
-[00:32:47.200 --> 00:32:59.400]   pedestrians and vehicles.
+00:31:49.800
+
+Look on the issue of transport here, finding a balance, look we are saying that after all this time after 20 years with bike paths, cycle ways there needs to be a review and an audit and again if we don't have change at the top that is not going to happen.  We'll just continue with what's been happening whereas the change will ensure that there's a review, there's an audit. Certainly if I become mayor some of these bike lanes, some of them will have to go. For example in the city of Sydney, I mean Pitt Street now has become a parking lot really and so that's probably one of the first ones to go. However look we're not saying no bike lanes but certainly we need a review and a balance between the bike lanes, pedestrians and vehicles.
 
 # Zann Maxwell (Labor)
 
 (no mention supporting or rejecting cycleways)
 
 # Sylvie Ellsmore (Greens)
-Finally just briefly on transport which is the last one the  
-[00:50:28.040 --> 00:50:31.880]   Greens are very proud of very proud champions of active transport. Lower  
-[00:50:31.880 --> 00:50:36.080]   speed limits on our streets, wider footpaths, dramatically reducing  
-[00:50:36.080 --> 00:50:41.120]   dependence on cars.
+00:50:28.040
+
+Finally just briefly on transport which is the last one the Greens are very proud of very proud champions of active transport. Lower speed limits on our streets, wider footpaths, dramatically reducing dependence on cars.
 
 # Rachel Evans (Socialist Alliance)
+00:53:20.720
 
-So public  
-[00:53:20.720 --> 00:53:26.160]   transport. Sydney could be a green transport city. Instead we are surrounded  
-[00:53:26.160 --> 00:53:30.800]   and dominated by toll roads and cranky car drivers finding it hard to park.  
-[00:53:30.800 --> 00:53:35.840]   These drivers are also stressed residents paying extraordinary housing  
-[00:53:35.840 --> 00:53:40.920]   costs. Sydney is the second most expensive place to live in the world.  
-[00:53:40.920 --> 00:53:47.080]   This is a city led by corporate logic so reorientating transport is critical  
-[00:53:47.080 --> 00:53:52.240]   because to stop climate collapse we need to drastically reduce carbon  
-[00:53:52.240 --> 00:53:57.880]   emissions and 1/4 25% of carbon is emitted by the private transport sector.  
-[00:53:57.880 --> 00:54:04.440]   Former NASA climate scientist James Hansen said by mid this year the 1.5  
-[00:54:04.440 --> 00:54:10.400]   degrees Celsius warming ceiling will be passed for all practicable purposes.  
-[00:54:10.400 --> 00:54:15.520]   Beyond 1.5 degree warming it is likely that four major earth system elements  
-[00:54:15.520 --> 00:54:20.400]   the Greenland and West Antarctic ice sheet, the tropical coral reefs and the  
-[00:54:20.400 --> 00:54:25.000]   boreal thermal frost will start collapsing even if we cut emissions  
-[00:54:25.000 --> 00:54:30.200]   rapidly. So we have to do everything to put the brakes on carbon emission and  
-[00:54:30.200 --> 00:54:36.560]   free mass clean fun social public transport must be part of that plan.  
-[00:54:36.560 --> 00:54:41.080]   We want land West Connex stole from the community for an interconnected active  
-[00:54:41.080 --> 00:54:46.440]   public transport system with bike paths and walkways electric buses trains trams  
-[00:54:46.440 --> 00:54:53.040]   plus traffic calming and walkway bridges. Like in Mexico City and Paris Socialist  
-[00:54:53.040 --> 00:54:58.000]   Alliance wants Sydney Council to provide a car-free day for the city once a week.  
-[00:54:58.000 --> 00:55:02.520]   Friends on the question of development cities that run on capitalist logic  
-[00:55:02.520 --> 00:55:08.040]   privatized spaces meaning people can't gather for free. Public spaces get  
-[00:55:08.040 --> 00:55:13.920]   sidelined and services are privatized. Corporations don't deliver services for  
-[00:55:13.920 --> 00:55:18.360]   the good of communities and environments they operate for profit. We join the  
-[00:55:18.360 --> 00:55:23.640]   growing chorus demanding Council end outsourcing and bring services back in  
-[00:55:23.640 --> 00:55:28.480]   house. Garbage collection, bike path building, light bulb changing for example. 
+So public transport. Sydney could be a green transport city. Instead we are surrounded and dominated by toll roads and cranky car drivers finding it hard to park.  These drivers are also stressed residents paying extraordinary housing costs. Sydney is the second most expensive place to live in the world.  This is a city led by corporate logic so reorientating transport is critical because to stop climate collapse we need to drastically reduce carbon emissions and 1/4 25% of carbon is emitted by the private transport sector.  Former NASA climate scientist James Hansen said by mid this year the 1.5 degrees Celsius warming ceiling will be passed for all practicable purposes.  Beyond 1.5 degree warming it is likely that four major earth system elements the Greenland and West Antarctic ice sheet, the tropical coral reefs and the boreal thermal frost will start collapsing even if we cut emissions rapidly. So we have to do everything to put the brakes on carbon emission and free mass clean fun social public transport must be part of that plan.  We want land West Connex stole from the community for an interconnected active public transport system with bike paths and walkways electric buses trains trams plus traffic calming and walkway bridges. Like in Mexico City and Paris Socialist Alliance wants Sydney Council to provide a car-free day for the city once a week.  Friends on the question of development cities that run on capitalist logic privatized spaces meaning people can't gather for free. Public spaces get sidelined and services are privatized. Corporations don't deliver services for the good of communities and environments they operate for profit. We join the growing chorus demanding Council end outsourcing and bring services back in house. Garbage collection, bike path building, light bulb changing for example. 
 
 # Sean Masters (Libertarian Party)
-The first one being  
-[00:59:30.120 --> 00:59:37.200]   transport. Now obviously state government and local government need to work hand  
-[00:59:37.200 --> 00:59:44.920]   in hand when it comes to suitable and appropriate public transport for  
-[00:59:44.920 --> 00:59:52.200]   residents. But my biggest concern when it comes to transport and the shared bike  
-[00:59:52.200 --> 00:59:57.600]   lanes pedestrians and cars public transport my biggest concern as opposed  
-[00:59:57.600 --> 01:00:05.160]   to my my fellow candidate the previous speaker my concern is bike lanes as that  
-[01:00:05.160 --> 01:00:13.920]   pertains to cars. Now for me and to some extent Sue without putting words in her  
-[01:00:13.920 --> 01:00:21.560]   mouth I say I want to put a freeze on bike lanes I say no more bike lanes M  
-[01:00:21.560 --> 01:00:29.040]   double O R E if you can commit the wordplay there clover. Now look it seems  
-[01:00:29.040 --> 01:00:33.680]   to me that you know I'm sure there is an overarching plan but it feels to  
-[01:00:33.680 --> 01:00:39.520]   residents that I've been speaking to that it's almost like there is no  
-[01:00:39.520 --> 01:00:43.600]   holistic plan for bike lanes and it's almost like they decided by throwing a  
-[01:00:43.600 --> 01:00:50.560]   dart at a map they lead to nowhere they they lead to congestion in many areas as  
-[01:00:50.560 --> 01:00:55.360]   a previous speaker mentioned in the city and they lead to less parking for  
-[01:00:55.360 --> 01:01:01.280]   residents. Now in our drive to net zero everyone seems to have forgotten that  
-[01:01:01.280 --> 01:01:06.160]   people still drive cars. People need to get around people need to get to work  
-[01:01:06.160 --> 01:01:10.520]   people need to pick up the kids and when they get home they need somewhere to  
-[01:01:10.520 --> 01:01:18.440]   park. So I come down firmly when it comes to transport on the needs of motorists  
-[01:01:18.440 --> 01:01:24.600]   and I accept that I am not amongst friends here but I do need to make my  
-[01:01:24.600 --> 01:01:32.720]   make my point known. Please don't throw fruit or shoes or any other or any more  
-[01:01:32.720 --> 01:01:39.160]   darts for that matter. 
+00:59:30.120
+
+The first one being transport. Now obviously state government and local government need to work hand in hand when it comes to suitable and appropriate public transport for residents. But my biggest concern when it comes to transport and the shared bike lanes pedestrians and cars public transport my biggest concern as opposed to my my fellow candidate the previous speaker my concern is bike lanes as that pertains to cars. Now for me and to some extent Sue without putting words in her mouth I say I want to put a freeze on bike lanes I say no more bike lanes M double O R E if you can commit the wordplay there clover. Now look it seems to me that you know I'm sure there is an overarching plan but it feels to residents that I've been speaking to that it's almost like there is no holistic plan for bike lanes and it's almost like they decided by throwing a dart at a map they lead to nowhere they they lead to congestion in many areas as a previous speaker mentioned in the city and they lead to less parking for residents. Now in our drive to net zero everyone seems to have forgotten that people still drive cars. People need to get around people need to get to work people need to pick up the kids and when they get home they need somewhere to park. So I come down firmly when it comes to transport on the needs of motorists and I accept that I am not amongst friends here but I do need to make my make my point known. Please don't throw fruit or shoes or any other or any more darts for that matter. 
