@@ -1,8 +1,16 @@
 # City of Sydney – Lord Mayoral Candidates Forum – 21 August 2024
 
-Raw transcription output of https://www.facebook.com/friendsoferskineville/videos/1771427860056597/ using OpenAI Whisper ggml-large-v2.bin.
+Raw transcription output the original public video recording
+https://www.facebook.com/friendsoferskineville/videos/1771427860056597/
+using OpenAI Whisper `ggml-large-v2.bin`. As this is machine generated, there are spelling errors in
+some cases, though I attempted to correct spelling of names.
 
-https://arag.org.au/2024/08/15/city-of-sydney-lord-mayoral-candidates-forum-21-august-2024/
+> With the NSW Local Council and Mayoral Elections fast approaching next month, a reminder ARAG, Friends of Erskineville, and REDwatch are jointly hosting a City of Sydney – Lord Mayoral Candidates Forum on Wednesday, 21 August at the Alexandria Town Hall at 7pm.
+> https://arag.org.au/2024/08/15/city-of-sydney-lord-mayoral-candidates-forum-21-august-2024/
+
+
+Note: Sylvie Ellsmore (Green's candidate) stated she is a founding member of RedWatch, who jointly
+hosted the event.
 
 This transcription is machine generated and not guaranteed to be correct. Do not quote
 without also checking the original video using the provided timestamps.
@@ -17,9 +25,9 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 
 ----
 
-[00:00:00.000 --> 00:00:04.800]   action group and I will be comparing tonight's forum with Deborah Giblett  
+[00:00:00.000 --> 00:00:04.800]   action group and I will be comparing tonight's forum with Deborah Giblett 
 [00:00:04.800 --> 00:00:09.040]   who's the president of Friends of Erskineville. I welcome and acknowledge  
-[00:00:09.040 --> 00:00:15.680]   Jeff Turnbull, Red Watch's co-spokesperson and the committee members of all three  
+[00:00:09.040 --> 00:00:15.680]   Geoff Turnbull, Red Watch's co-spokesperson and the committee members of all three  
 [00:00:15.680 --> 00:00:20.880]   organisations who are here tonight. I would like to begin by acknowledging we  
 [00:00:20.880 --> 00:00:25.680]   meet on the traditional lands of the Gadigal people of the Eora nation and I  
 [00:00:25.680 --> 00:00:31.480]   pay my respects to elders past, present and emerging. I'd like to extend a very  
@@ -31,10 +39,10 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:00:54.920 --> 00:00:59.600]   one month away. Tonight we have nine candidates, nine of the candidates  
 [00:00:59.600 --> 00:01:03.920]   standing for Lord Mayor of the City of Sydney. In alphabetical order they are  
 [00:01:03.920 --> 00:01:08.400]   Clover Moore of the Clover Moore Independent Team, Lyndon Gannon of the  
-[00:01:08.400 --> 00:01:14.080]   Liberal Party, Rachel Evans of the Socialist Alliance, Sam Danielli of the  
+[00:01:08.400 --> 00:01:14.080]   Liberal Party, Rachel Evans of the Socialist Alliance, Sam Danieli of the  
 [00:01:14.080 --> 00:01:19.680]   We Love Sydney group, Sean Masters the Libertarian Party, Sue Ritchie  
 [00:01:19.680 --> 00:01:26.040]   Independent, Sylvie Ellsmore the Greens, Yvonne Weldon Unite for Sydney and  
-[00:01:26.040 --> 00:01:32.280]   Zan Maxwell of the Australian Labor Party. The format of tonight's candidate  
+[00:01:26.040 --> 00:01:32.280]   Zann Maxwell of the Australian Labor Party. The format of tonight's candidate  
 [00:01:32.280 --> 00:01:36.960]   forum will be as follows. Each candidate has been given the same three issues as  
 [00:01:36.960 --> 00:01:40.920]   determined by an online survey of residents and they have been asked to  
 [00:01:40.920 --> 00:01:46.440]   speak on those issues within a time slot of six minutes. The questions are  
@@ -50,6 +58,10 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:02:31.240 --> 00:02:36.320]   his speaking. This will be strictly enforced. Once all candidates have  
 [00:02:36.320 --> 00:02:40.440]   presented we will invite you to pose your own questions by lining up in front  
 [00:02:40.440 --> 00:02:43.640]   of the microphone over here.  
+
+
+## Yvonne Weldon introduction
+
 [00:02:43.640 --> 00:02:55.720]   I'm pleased to be able to introduce to you our first speaker Yvonne Weldon. Yvonne  
 [00:02:55.720 --> 00:02:59.920]   is a proud Wiradjuri woman and the first Aboriginal councillor in the city of  
 [00:02:59.920 --> 00:03:05.240]   Sydney's 180 year history. She's held numerous senior positions in the New  
@@ -60,7 +72,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:03:25.880 --> 00:03:30.280]   Council and as a board member of Domestic Violence New South Wales. Please  
 [00:03:30.280 --> 00:03:41.160]   join me in welcoming Yvonne.  
   
-# Yvonne Weldon speech  
+# Yvonne Weldon speech
   
 [00:03:41.160 --> 00:03:53.080]   Slightly shorter. Good evening everyone. As I said my name is Yvonne Weldon. I am a  
 [00:03:53.080 --> 00:03:57.720]   Wiradjuri woman from Cowra here in New South Wales. I need and appropriately  
@@ -301,6 +313,8 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:22:46.080 --> 00:22:50.080]   facilities and asset renewals for the next term, as well as our affordable housing  
 [00:22:50.080 --> 00:22:53.480]   program, action on climate change, our greening program and supporting a  
 [00:22:53.480 --> 00:22:56.860]   cultured life in our city. Thank you.  
+
+# Sue Ritchie introduction
 [00:22:56.860 --> 00:23:06.400]   Our next candidate to speak is Sue Ritchie. Sue has a long IT background working at  
 [00:23:06.400 --> 00:23:11.660]   Qantas, specialising in complex problems, strategic planning, integration of  
 [00:23:11.660 --> 00:23:16.240]   diverse business units, interests and change management. She and her family own  
@@ -373,7 +387,9 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:29:22.200 --> 00:29:28.600]   amenity that shouldn't have been lost. So I believe I've got good ideas. My good  
 [00:29:28.600 --> 00:29:33.080]   ideas come from listening to my community. I'm honest, community minded  
 [00:29:33.080 --> 00:29:38.360]   and completely independent so please vote for me.  
-[00:29:38.360 --> 00:29:47.680]   Our next speaker is Sam Daniele. Sam is a chartered accountant and principal of  
+
+# Sam Danieli introduction
+[00:29:38.360 --> 00:29:47.680]   Our next speaker is Sam Danieli. Sam is a chartered accountant and principal of  
 [00:29:47.680 --> 00:29:52.560]   his own firm in the CBD. He's a former mayor of Warringah Council and will  
 [00:29:52.560 --> 00:29:57.120]   bring extensive political and business experience to the council. He believes  
 [00:29:57.120 --> 00:30:01.080]   the current administration has been in for too long and that it is time for  
@@ -444,25 +460,25 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:36:24.520 --> 00:36:27.880]   government where something is so important there's a special ministry  
 [00:36:27.880 --> 00:36:33.080]   established. We need a special town planning section in council to deal with  
 [00:36:33.080 --> 00:36:36.920]   the housing affordability issue.  
-[00:36:36.920 --> 00:36:49.200]   Our next speaker is Zan Maxwell. Zan has been a Sydney resident for nearly 10  
+[00:36:36.920 --> 00:36:49.200]   Our next speaker is Zann Maxwell. Zann has been a Sydney resident for nearly 10  
 [00:36:49.200 --> 00:36:53.280]   years and has two degrees in communications and law. He lived in  
 [00:36:53.280 --> 00:36:56.880]   public housing was raised by a single mother who taught him the importance of  
 [00:36:56.880 --> 00:37:01.800]   resilience compassion and education. He has worked in the national policy  
 [00:37:01.800 --> 00:37:06.960]   advocacy including climate change vaping regulation and currently disability  
 [00:37:06.960 --> 00:37:11.520]   support through tech platforms. He has been an advisor to the Prime Minister  
 [00:37:11.520 --> 00:37:16.720]   Anthony Albanese and now seeks to bring his commitment to social and economic  
-[00:37:16.720 --> 00:37:23.040]   fairness to public life as a Labor representative. Please welcome Zan.  
+[00:37:16.720 --> 00:37:23.040]   fairness to public life as a Labor representative. Please welcome Zann.  
   
-# Zan Maxwell speech  
-[00:37:23.040 --> 00:37:39.880]   Thank you so much. Hello everyone I'm Zan Maxwell. I want to start by  
+# Zann Maxwell speech  
+[00:37:23.040 --> 00:37:39.880]   Thank you so much. Hello everyone I'm Zann Maxwell. I want to start by  
 [00:37:39.880 --> 00:37:47.160]   acknowledging the Gadigal as well and any elders that with us tonight. Their  
 [00:37:47.160 --> 00:37:53.760]   land was taken without consultation or compensation and the effects of that  
 [00:37:53.760 --> 00:37:58.600]   dispossession continue to be felt today and we must never forget that. I want to  
 [00:37:58.600 --> 00:38:03.200]   acknowledge the other candidates here tonight in particular the Lord Mayor and  
-[00:38:03.200 --> 00:38:08.480]   also Deborah, Jeff and Vanessa and the other organizers of the event tonight  
+[00:38:03.200 --> 00:38:08.480]   also Deborah, Geoff and Vanessa and the other organizers of the event tonight  
 [00:38:08.480 --> 00:38:14.560]   and the volunteers. Thank you so much for the work that you do. I look I look  
 [00:38:14.560 --> 00:38:21.960]   forward to working with you on council in the next term all going well. So I'm  
-[00:38:21.960 --> 00:38:30.720]   Zan. I'm 35. I'm a renter and I love this city. I love Sydney. I think Sydney has  
+[00:38:21.960 --> 00:38:30.720]   Zann. I'm 35. I'm a renter and I love this city. I love Sydney. I think Sydney has  
 [00:38:30.720 --> 00:38:35.400]   everything that it needs to be one of the great cities of the world but I  
 [00:38:35.400 --> 00:38:41.720]   think it is in danger of losing that potential. If you have walked down Oxford  
 [00:38:41.720 --> 00:38:48.640]   Street recently or you've tried to get a meal after nine o'clock or perhaps a  
@@ -513,8 +529,10 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:43:02.040 --> 00:43:09.720]   back in-house. I look forward to seeing what that shows for  
 [00:43:09.720 --> 00:43:15.660]   our garbage collection and in particular our aquatic centres, the  
 [00:43:15.660 --> 00:43:22.100]   outsourcing of which has also been a disaster. So those are my three key  
-[00:43:22.100 --> 00:43:29.200]   commitments in this election and I ask for your vote. Thank you.  
-[00:43:29.200 --> 00:43:39.120]   Our next speaker is Sylvia Osmore. Sylvia is a councillor and former deputy mayor  
+[00:43:22.100 --> 00:43:29.200]   commitments in this election and I ask for your vote. Thank you.
+
+# Sylvie Ellsmore introduction
+[00:43:29.200 --> 00:43:39.120]   Our next speaker is Sylvie Ellsmore. Sylvia is a councillor and former deputy mayor  
 [00:43:39.120 --> 00:43:43.440]   of the City of Sydney Council. She is the founding chair of the City of Sydney's  
 [00:43:43.440 --> 00:43:48.960]   Housing for All Working Group. Sylvia has worked as a native title lawyer, union  
 [00:43:48.960 --> 00:43:53.880]   organiser and community organiser. Her other former roles include policy  
@@ -700,6 +718,7 @@ https://github.com/jakecoppinger/friends-of-erskinville-lord-mayoral-candidates-
 [00:58:04.440 --> 00:58:10.240]   ideology and towards more practical politics that actually helps people. He  
 [00:58:10.240 --> 00:58:14.240]   wants the best possible future for his young family and for the people of  
 [00:58:14.240 --> 00:58:27.680]   Sydney. Please welcome Sean. Well you can all hear me doesn't Mike doesn't  
+
 # Sean Masters speech  
 [00:58:27.680 --> 00:58:41.880]   need to go up I'll be I'll be quick as I can. Yeah look I am running for council  
 [00:58:41.880 --> 00:58:49.600]   because I feel that ideology has infested this council and I feel that  
